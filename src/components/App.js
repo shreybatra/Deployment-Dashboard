@@ -34,7 +34,7 @@ export default function App () {
     } else {
       return (
         <div>
-          <Modal header='Strategy Dashboard'>
+          <Modal header='Deployment Dashboard'>
             <Login handleClose={setAccess} />
           </Modal>
         </div>
